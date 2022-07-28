@@ -1,0 +1,312 @@
+{
+  "appInfo" : {
+    "build" : "213.7172.25",
+    "buildDate" : "2022-03-15T16:44:00.775Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2022-07-28T09:42:53.8863973Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.14.1 11.0.14.1+1-b1751.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1071644672,
+    "numberOfProcessors" : 2,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "first_project",
+    "times" : {
+      "indexingReason" : "On refresh of 35 files",
+      "wasFullIndexing" : false,
+      "totalUpdatingTime" : 3370489500,
+      "indexingTime" : 3284740800,
+      "contentLoadingTime" : 13401347,
+      "scanFilesTime" : 182500,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-28T09:42:50.4816765Z",
+      "updatingEnd" : "2022-07-28T09:42:53.8514173Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 35,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 35,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 34
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 2118788700,
+        "total" : 3236321600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5778400,
+        "total" : 13202100
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 541406,
+      "indexingSpeed" : {
+        "totalBytes" : 541406,
+        "totalTime" : 2118788700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 541406,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2118788700,
+          "total" : 2118788700
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 829597300,
+        "total" : 3236321600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1510300,
+        "total" : 13202100
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 175952,
+      "indexingSpeed" : {
+        "totalBytes" : 175952,
+        "totalTime" : 829597300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 175952,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 829597300,
+          "total" : 829597300
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 149674400,
+        "total" : 3236321600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3441900,
+        "total" : 13202100
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 420456,
+      "indexingSpeed" : {
+        "totalBytes" : 420456,
+        "totalTime" : 149674400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 420456,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 149674400,
+          "total" : 149674400
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 127131300,
+        "total" : 3236321600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1554900,
+        "total" : 13202100
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 189368,
+      "indexingSpeed" : {
+        "totalBytes" : 189368,
+        "totalTime" : 127131300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 189368,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 127131300,
+          "total" : 127131300
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 11129900,
+        "total" : 3236321600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 916600,
+        "total" : 13202100
+      },
+      "totalNumberOfFiles" : 19,
+      "totalFilesSize" : 0,
+      "indexingSpeed" : {
+        "totalBytes" : 0,
+        "totalTime" : 11129900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 19,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 11129900,
+          "total" : 11129900
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 730298300,
+        "total" : 1665544600
+      },
+      "totalNumberOfFiles" : 15,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1327182,
+      "indexingSpeed" : {
+        "totalBytes" : 1327182,
+        "totalTime" : 730298300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 623780500,
+        "total" : 1665544600
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1163674,
+      "indexingSpeed" : {
+        "totalBytes" : 1163674,
+        "totalTime" : 623780500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 252139000,
+        "total" : 1665544600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 175952,
+      "indexingSpeed" : {
+        "totalBytes" : 175952,
+        "totalTime" : 252139000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 42975600,
+        "total" : 1665544600
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1163674,
+      "indexingSpeed" : {
+        "totalBytes" : 1163674,
+        "totalTime" : 42975600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 14171100,
+        "total" : 1665544600
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 420456,
+      "indexingSpeed" : {
+        "totalBytes" : 420456,
+        "totalTime" : 14171100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 2180100,
+        "total" : 1665544600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 12444,
+      "indexingSpeed" : {
+        "totalBytes" : 12444,
+        "totalTime" : 2180100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "numberOfScannedFiles" : 35,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 35,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 182500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 34,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 3285164500,
+      "contentLoadingTime" : 13401347,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "TransportSecurity",
+        "processingTime" : 630200300,
+        "indexingTime" : 603375000,
+        "contentLoadingTime" : 799200
+      }, {
+        "fileName" : "Preferences",
+        "processingTime" : 1323023200,
+        "indexingTime" : 618019400,
+        "contentLoadingTime" : 825600
+      }, {
+        "fileName" : "report.html",
+        "processingTime" : 808853500,
+        "indexingTime" : 256212700,
+        "contentLoadingTime" : 746800
+      } ]
+    } ]
+  }
+}
